@@ -1,6 +1,6 @@
 # Dominant color extractor using OpenCV and K-clustering
 
-Generates palette of dominant colors for image series
+Generates palette of dominant colors from image series
 
 Here is an example
 
